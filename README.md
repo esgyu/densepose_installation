@@ -104,7 +104,8 @@ $ cp -r include/c++ $CONDA_ENV_PATH/include
 
 After installing gcc-4.9.2 successfully, add `/path/to/gcc-4.9.2/build/bin` and `/path/to/gcc-4.9.2/build/lib64` to your `$PATH` and `$LD_LIBRARY_PATH` environment variables, respectively.
 
-If you Failed Install GCC 4.9.4 by this method, Try this https://medium.com/@orhanakal/install-gcc-4-9-and-g-4-9-on-ubuntu-18-04-6888b92e5bab.  
+If you Failed Install GCC 4.9.4 by this method,  
+Try this https://medium.com/@orhanakal/install-gcc-4-9-and-g-4-9-on-ubuntu-18-04-6888b92e5bab.  
 GCC 4.9.3 Version also works well.  
 
 ## Densepose
